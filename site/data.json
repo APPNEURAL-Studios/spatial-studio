@@ -1,0 +1,130 @@
+{
+  "slug": "spatial-studio",
+  "host": "spatial",
+  "title": "Spatial Studio",
+  "tagline": "3D, AR, VR and maps",
+  "description": "Model 3D objects and scenes, design materials and product configurators, and build AR experiences, VR environments, and virtual tours. Create custom maps, GIS layers, routes, geofences, heatmaps, and digital twins.",
+  "editors": [
+    {
+      "category": "3D, AR & Spatial Editors",
+      "name": "3D Model Editor",
+      "desc": "Mesh modeling and sculpting"
+    },
+    {
+      "category": "3D, AR & Spatial Editors",
+      "name": "3D Scene Editor",
+      "desc": "3D environment composition"
+    },
+    {
+      "category": "3D, AR & Spatial Editors",
+      "name": "Material Editor",
+      "desc": "Surface material and shader design"
+    },
+    {
+      "category": "3D, AR & Spatial Editors",
+      "name": "3D Animation Editor",
+      "desc": "3D object animation"
+    },
+    {
+      "category": "3D, AR & Spatial Editors",
+      "name": "Product Configurator",
+      "desc": "3D product customization viewer"
+    },
+    {
+      "category": "3D, AR & Spatial Editors",
+      "name": "AR Experience Editor",
+      "desc": "Augmented reality experience design"
+    },
+    {
+      "category": "3D, AR & Spatial Editors",
+      "name": "VR Scene Editor",
+      "desc": "Virtual reality environment building"
+    },
+    {
+      "category": "3D, AR & Spatial Editors",
+      "name": "Virtual Tour Editor",
+      "desc": "360\u00b0 virtual tour creation"
+    },
+    {
+      "category": "3D, AR & Spatial Editors",
+      "name": "Spatial UI Editor",
+      "desc": "Spatial interface design"
+    },
+    {
+      "category": "3D, AR & Spatial Editors",
+      "name": "3D Avatar Editor",
+      "desc": "3D character/avatar customization"
+    },
+    {
+      "category": "3D, AR & Spatial Editors",
+      "name": "Digital Twin Editor",
+      "desc": "Physical asset digital replication"
+    },
+    {
+      "category": "Maps & Location Editors",
+      "name": "Map Editor",
+      "desc": "Custom map creation and styling"
+    },
+    {
+      "category": "Maps & Location Editors",
+      "name": "GIS Editor",
+      "desc": "Geographic information system editing"
+    },
+    {
+      "category": "Maps & Location Editors",
+      "name": "Route Editor",
+      "desc": "Path/route planning"
+    },
+    {
+      "category": "Maps & Location Editors",
+      "name": "Location Story Editor",
+      "desc": "Geo-narrative storytelling"
+    },
+    {
+      "category": "Maps & Location Editors",
+      "name": "Territory Editor",
+      "desc": "Sales/service territory mapping"
+    },
+    {
+      "category": "Maps & Location Editors",
+      "name": "Heatmap Editor",
+      "desc": "Density/intensity heatmaps"
+    },
+    {
+      "category": "Maps & Location Editors",
+      "name": "Floor Map Editor",
+      "desc": "Indoor floor plan mapping"
+    },
+    {
+      "category": "Maps & Location Editors",
+      "name": "Geofence Editor",
+      "desc": "Geofence boundary definition"
+    }
+  ],
+  "services": [
+    [
+      "media",
+      "new"
+    ],
+    [
+      "model",
+      "core"
+    ],
+    [
+      "agent",
+      "core"
+    ],
+    [
+      "publishing",
+      "core"
+    ],
+    [
+      "asset",
+      "gap"
+    ],
+    [
+      "location",
+      "new"
+    ]
+  ]
+}
